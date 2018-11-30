@@ -23,6 +23,7 @@
 		5C47D64C21AFE3E600A033FE /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5C47D64221AFE3E600A033FE /* nssl0034.jpg */; };
 		5C47D64E21AFE9DD00A033FE /* SourceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C47D64D21AFE9DD00A033FE /* SourceViewController.swift */; };
 		5C47D65021AFEAA000A033FE /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C47D64F21AFEAA000A033FE /* DetailViewController.swift */; };
+		5CEA705521B1AF53002DE87E /* scr1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5CEA705421B1AF53002DE87E /* scr1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,8 @@
 		5C47D64221AFE3E600A033FE /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		5C47D64D21AFE9DD00A033FE /* SourceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceViewController.swift; sourceTree = "<group>"; };
 		5C47D64F21AFEAA000A033FE /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		5CEA705221B1AE1B002DE87E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5CEA705421B1AF53002DE87E /* scr1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = scr1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,8 @@
 		5C47D61C21AFE27A00A033FE = {
 			isa = PBXGroup;
 			children = (
+				5CEA705321B1AF42002DE87E /* screens */,
+				5CEA705221B1AE1B002DE87E /* README.md */,
 				5C47D62721AFE27A00A033FE /* Project1 */,
 				5C47D62621AFE27A00A033FE /* Products */,
 			);
@@ -105,6 +110,14 @@
 				5C47D64221AFE3E600A033FE /* nssl0034.jpg */,
 			);
 			path = Content;
+			sourceTree = "<group>";
+		};
+		5CEA705321B1AF42002DE87E /* screens */ = {
+			isa = PBXGroup;
+			children = (
+				5CEA705421B1AF53002DE87E /* scr1.jpg */,
+			);
+			path = screens;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -166,6 +179,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5C47D64A21AFE3E600A033FE /* nssl0043.jpg in Resources */,
+				5CEA705521B1AF53002DE87E /* scr1.jpg in Resources */,
 				5C47D64B21AFE3E600A033FE /* nssl0033.jpg in Resources */,
 				5C47D64821AFE3E600A033FE /* nssl0041.jpg in Resources */,
 				5C47D64521AFE3E600A033FE /* nssl0091.jpg in Resources */,
