@@ -1,6 +1,6 @@
 #  Storm Viewer
 
-<img src="/screens/scr1.jpg" width="25%">
+<img src="/screens/scr1.jpg" width="80%">
 
 ## Main functionality
 * NSTableView
